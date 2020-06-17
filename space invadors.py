@@ -21,7 +21,7 @@ icon = pygame.image.load("ufo.png")
 pygame.display.set_icon(icon)
 
 # player
-playericon = pygame.image.load("spaceship(2).png")
+playericon = pygame.image.load("spaceship.png")
 playerX = 370
 playerY = 480
 playerX_change = 0
